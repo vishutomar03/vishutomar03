@@ -21,7 +21,7 @@ I am Vishu Tomar, currently pursuing my B.Tech in Electrical Engineering from De
 
 ### Software:
 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-E34A86?style=flat-square&logo=IntelliJIDEA)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-2196F3?style=flat-square&logo=IntelliJIDEA)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=Eclipse)
 ![Sublime Text](https://img.shields.io/badge/-SublimeText-E34F26?style=flat-square&logo=SublimeText&logoColor=white)
